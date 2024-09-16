@@ -6,6 +6,8 @@ Author - Sonali Kohli
 The project aimed to gain a better understanding of the various factors that contribute to customer acquisition. Thereby, this project includes exploratory data analysis and hypothesis testing.
 <br>
 # Techstack
+Language: Python
+<br>
 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Scipy, Datetime
 <br>
 Methods: Label Encoder, t_stat, p_value, 
